@@ -1,0 +1,9 @@
+name = "rasm-qidiruv-bot"
+main = "src/index.js"
+compatibility_date = "2025-01-01"
+compatibility_flags = ["nodejs_compat"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "rasm-bot-db"
+database_id = "5083c80c-a860-4c13-955a-ccecc607344a"
